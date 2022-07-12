@@ -1,0 +1,347 @@
+@media (min-width: 320px) and (max-width: 575px) {
+  .banner_img {
+    display: none;
+  }
+
+  .tabletbanner_img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: none;
+  }
+
+  .mobliebanner_img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .maayon {
+    width: 47%;
+    max-width: 46%;
+    height: auto;
+  }
+
+  .banner_text {
+    position: absolute;
+    top: 11vw;
+    left: 7vw;
+    width: 86%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 72px;
+    color: #FFFFFF;
+    display: inline-block;
+  }
+
+  .aboutHead {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 6vw;
+    line-height: 39px;
+    color: #0E549C;
+    width: 64%;
+    max-width: 64%;
+    height: auto;
+    display: inline-block;
+  }
+
+  .ratings {
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+  }
+
+  .ratings_scannings {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 30px;
+  }
+
+  .ratings_modellings {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 30px;
+  }
+
+  .ratings_modellings::before {
+    display: none;
+  }
+
+  .ratings_clients::before {
+    display: none;
+  }
+
+  .footer_section .footer_align .footertext1 {
+    width: 50%;
+    margin: 0 0 40px 0;
+    padding: 0 15px 0 0;
+  }
+
+  .footer_section .footer_align .footertext2 {
+    width: 50%;
+    margin: 0 0 40px 0;
+    padding: 0 0 0 15px;
+  }
+
+  .footer_section .footer_align .footertext3 {
+    width: 100%;
+    margin: 0 0 40px 0;
+    padding: 0;
+  }
+
+  .footer_map {
+    width: 100%;
+    margin: 0 0 40px 0;
+    padding: 0;
+  }
+
+  .left {
+    left: -8%;
+    margin-right: -4px;
+    position: absolute;
+    top: 44%;
+    z-index: 5;
+    display: inline-block;
+    margin-top: 342px;
+  }
+
+  .right {
+    right: -6%;
+    margin-right: -4px;
+    position: absolute;
+    top: 44%;
+    z-index: 5;
+    display: inline-block;
+    margin-top: 342px;
+  }
+
+  .carousel-inner {
+    position: relative;
+    overflow: hidden;
+    height: 157vw;
+  }
+
+  .card .carousel-caption {
+    left: 0;
+    top: 0;
+    margin-bottom: 33px;
+    height: 73vw;
+  }
+
+  .gap-2 {
+    gap: 0.5rem !important;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .banner_img {
+    display: none;
+  }
+
+  .mobliebanner_img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: none;
+  }
+
+  .tabletbanner_img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .banner_text {
+    position: absolute;
+    top: 15vw;
+    left: 7vw;
+    width: 50%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 73px;
+    color: #FFFFFF;
+    display: inline-block;
+  }
+
+  .animate-reveal {
+    margin: 0 0 0.5em;
+    padding: 0;
+    font: bold 1.5em sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    opacity: 0;
+    -webkit-animation: reveal 1s cubic-bezier(0, 1, 0.5, 1) 1 normal forwards;
+    -moz-animation: reveal 1s ease-in 1 normal forwards;
+    -o-animation: reveal 1s cubic-bezier(0, 1, 0.5, 1) 1 normal forwards;
+    animation: reveal 1s cubic-bezier(0, 1, 0.5, 1) 1 normal forwards;
+  }
+
+  .left {
+    left: -11%;
+    margin-right: -4px;
+    position: absolute;
+    top: 42%;
+    z-index: 5;
+    display: inline-block;
+    margin-top: 176px;
+  }
+
+  .Next_icon {
+    width: 7vw;
+    margin-left: 7vw;
+    margin-top: 14vw;
+  }
+
+  .Prev_icon {
+    width: 7vw;
+    margin-right: 4vw;
+    margin-top: 14vw;
+  }
+
+  .footer_section .footer_align .footertext1 {
+    width: 50%;
+    margin: 0 0 40px 0;
+    padding: 0 15px 0 0;
+  }
+
+  .footer_section .footer_align .footertext2 {
+    width: 50%;
+    margin: 0 0 40px 0;
+    padding: 0 0 0 15px;
+  }
+
+  .footer_section .footer_align .footertext3 {
+    width: 50%;
+    margin: 0;
+    padding: 0 15px 0 0;
+  }
+
+  .footer_map {
+    width: 50%;
+    margin: 0;
+    padding: 0 0 0 15px;
+  }
+
+  .gap-2 {
+    gap: 0.5rem !important;
+  }
+}
+
+@media (min-width: 767px) and (max-width: 991px) {
+  .banner_img {
+    display: none;
+  }
+
+  .row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 0px;
+    margin-left: -15px;
+  }
+
+  .mobliebanner_img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: none;
+  }
+
+  .tabletbanner_img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .banner_text {
+    position: absolute;
+    top: 15vw;
+    left: 7vw;
+    width: 50%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 73px;
+    color: #FFFFFF;
+    display: inline-block;
+  }
+
+  .animate-reveal {
+    margin: 0 0 0.5em;
+    padding: 0;
+    font: bold 1.5em sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    opacity: 0;
+    -webkit-animation: reveal 1s cubic-bezier(0, 1, 0.5, 1) 1 normal forwards;
+    -moz-animation: reveal 1s ease-in 1 normal forwards;
+    -o-animation: reveal 1s cubic-bezier(0, 1, 0.5, 1) 1 normal forwards;
+    animation: reveal 1s cubic-bezier(0, 1, 0.5, 1) 1 normal forwards;
+  }
+
+  .left {
+    left: -9%;
+    margin-right: -4px;
+    position: absolute;
+    top: 42%;
+    z-index: 5;
+    display: inline-block;
+    margin-top: 253px;
+  }
+
+  .right {
+    right: -9%;
+    margin-right: 0px;
+    position: absolute;
+    top: 42%;
+    z-index: 5;
+    display: inline-block;
+    margin-top: 248px;
+  }
+
+  .footer_section .footer_align .footertext1 {
+    width: 50%;
+    margin: 0 0 40px 0;
+    padding: 0 15px 0 0;
+  }
+
+  .footer_section .footer_align .footertext2 {
+    width: 50%;
+    margin: 0 0 40px 0;
+    padding: 0 0 0 15px;
+  }
+
+  .footer_section .footer_align .footertext3 {
+    width: 50%;
+    margin: 0;
+    padding: 0 15px 0 0;
+  }
+
+  .footer_map {
+    width: 50%;
+    margin: 0;
+    padding: 0 0 0 15px;
+  }
+
+  .gap-2 {
+    gap: 0.5rem !important;
+  }
+}
