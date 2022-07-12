@@ -73,11 +73,11 @@
 }
 
 .Prev_icon {
-  width: 7vw;
+  width: 5vw;
 }
 
 .Next_icon {
-  width: 7vw;
+  width: 5vw;
 }
 
 .Next.testimonials_icon {
@@ -813,7 +813,7 @@ h1 {
   width: 100%;
   height: auto;
   margin: 1vw;
-  padding: 2vw 0 0 0;
+  padding: 2vw 2vw 0 0;
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
