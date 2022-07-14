@@ -395,12 +395,11 @@ h1 {
 }
 
 .serviceHead {
-  font-size: 36px;
+  font-size: 48px;
   font-family: 'Poppins';
   line-height: 1.5;
   color: #000;
   text-align: center;
-  margin: 10vw 0px 5vw 0;
 }
 
 .services .services_align {
@@ -515,6 +514,8 @@ h1 {
 
 .services {
   background-image: url('images/BG GREEN.png');
+  background-size: cover;
+  padding: 80px 0px;
 }
 
 /* Ratings;
@@ -597,7 +598,7 @@ h1 {
 }
 
 .testimonialsHeading {
-  font-size: 36px;
+  font-size: 48px;
   font-family: 'Poppins';
   line-height: 1.5;
   color: #FFFF;
