@@ -1025,4 +1025,5 @@ h1 {
 .dropdown-item {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
+  padding: 1.25rem 1.5rem;
 }
