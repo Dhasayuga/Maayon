@@ -262,7 +262,16 @@ h1 {
   display: inline-block;
   outline: none;
 }
+@keyframes glowing {
+  0% { box-shadow: 0 0 -10px #c4a300; }
+  40% { box-shadow: 0 0 20px #c4a300; }
+  60% { box-shadow: 0 0 20px #c4a300; }
+  100% { box-shadow: 0 0 -10px #c4a300; }
+}
 
+.button-glow {
+  animation: glowing 5000ms infinite;
+}
 .btn-15 {
   background: #F7B843;
   border: none;
