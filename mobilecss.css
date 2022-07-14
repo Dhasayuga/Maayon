@@ -148,6 +148,38 @@
     max-width: 60%;
     height: auto;
 }
+   .testimonialsHeading {
+    font-size: 6vw;
+    font-family: 'Poppins';
+    line-height: 1.5;
+    color: #FFFF;
+    text-align: center;
+    margin: 10vw 0px 5vw 0;
+}
+  .serviceHead {
+    font-size: 6vw;
+    font-family: 'Poppins';
+    line-height: 1.5;
+    color: #000;
+    text-align: center;
+}
+  .service_name_style {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 5vw;
+    line-height: 32px;
+    color: #182243;
+    padding: 2vw;
+}
+  .footer_section .footer_align .footertext1 ul li {
+    float: left;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    display: inline-block;
+    margin: 0 7px 0 0;
+}
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
