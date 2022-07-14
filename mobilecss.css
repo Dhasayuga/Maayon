@@ -345,3 +345,20 @@
     gap: 0.5rem !important;
   }
 }
+
+
+@media (min-width: 991px) and (max-width: 1300px) {
+.banner_text {
+  position: absolute;
+  top: 7vw;
+  left: 7vw;
+  width: 50%;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 73px;
+  color: #FFFFFF;
+  display: inline-block;
+}
+}
