@@ -143,6 +143,11 @@
   .gap-2 {
     gap: 0.5rem !important;
   }
+  .maayon {
+    width: 40%;
+    max-width: 40%;
+    height: auto;
+}
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
@@ -240,6 +245,11 @@
   .gap-2 {
     gap: 0.5rem !important;
   }
+  .maayon {
+    width: 40%;
+    max-width: 40%;
+    height: auto;
+}
 }
 
 @media (min-width: 767px) and (max-width: 991px) {
@@ -344,6 +354,11 @@
   .gap-2 {
     gap: 0.5rem !important;
   }
+  .maayon {
+    width: 40%;
+    max-width: 40%;
+    height: auto;
+}
 }
 
 
