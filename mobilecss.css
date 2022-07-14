@@ -250,6 +250,30 @@
     max-width: 60%;
     height: auto;
 }
+  .testimonialsHeading {
+    font-size: 2rem;
+    font-family: 'Poppins';
+    line-height: 1.5;
+    color: #FFFF;
+    text-align: center;
+    margin: 10vw 0px 5vw 0;
+}
+  .serviceHead {
+    font-size: 2rem;
+    font-family: 'Poppins';
+    line-height: 1.5;
+    color: #000;
+    text-align: center;
+}
+  .service_name_style {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 32px;
+    color: #182243;
+    padding: 2vw;
+}
 }
 
 @media (min-width: 767px) and (max-width: 991px) {
@@ -359,6 +383,30 @@
     max-width: 60%;
     height: auto;
 }
+   .testimonialsHeading {
+    font-size: 2rem;
+    font-family: 'Poppins';
+    line-height: 1.5;
+    color: #FFFF;
+    text-align: center;
+    margin: 10vw 0px 5vw 0;
+}
+  .serviceHead {
+    font-size: 2rem;
+    font-family: 'Poppins';
+    line-height: 1.5;
+    color: #000;
+    text-align: center;
+}
+  .service_name_style {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 32px;
+    color: #182243;
+    padding: 2vw;
+}
 }
 
 
@@ -375,5 +423,29 @@
   line-height: 73px;
   color: #FFFFFF;
   display: inline-block;
+}
+   .testimonialsHeading {
+    font-size: 2rem;
+    font-family: 'Poppins';
+    line-height: 1.5;
+    color: #FFFF;
+    text-align: center;
+    margin: 10vw 0px 5vw 0;
+}
+  .serviceHead {
+    font-size: 2rem;
+    font-family: 'Poppins';
+    line-height: 1.5;
+    color: #000;
+    text-align: center;
+}
+  .service_name_style {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 32px;
+    color: #182243;
+    padding: 2vw;
 }
 }
