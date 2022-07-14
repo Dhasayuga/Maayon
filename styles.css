@@ -482,7 +482,7 @@ h1 {
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 500;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   line-height: 32px;
   color: #182243;
   padding: 2vw;
@@ -925,15 +925,15 @@ h1 {
 }
 
 .Facebook_icon {
-  width: 3vw;
+  width: 44px;
 }
 
 .Instagram_icon {
-  width: 3vw;
+  width: 44px;
 }
 
 .Twitter_icon {
-  width: 3vw;
+  width: 44px;
 }
 
 .footer_section .footer_align .footertext2 {
