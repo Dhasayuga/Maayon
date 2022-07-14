@@ -25,7 +25,7 @@
 
   .banner_text {
     position: absolute;
-    top: 11vw;
+    top: 16vw;
     left: 7vw;
     width: 86%;
     font-family: 'Poppins';
@@ -251,7 +251,7 @@
     height: auto;
 }
   .testimonialsHeading {
-    font-size: 2rem;
+    font-size: 6vw;
     font-family: 'Poppins';
     line-height: 1.5;
     color: #FFFF;
@@ -259,7 +259,7 @@
     margin: 10vw 0px 5vw 0;
 }
   .serviceHead {
-    font-size: 2rem;
+    font-size: 6vw;
     font-family: 'Poppins';
     line-height: 1.5;
     color: #000;
@@ -269,10 +269,18 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
-    font-size: 1.5rem;
+    font-size: 5vw;
     line-height: 32px;
     color: #182243;
     padding: 2vw;
+}
+  .footer_section .footer_align .footertext1 ul li {
+    float: left;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    display: inline-block;
+    margin: 0 7px 0 0;
 }
 }
 
@@ -383,8 +391,8 @@
     max-width: 60%;
     height: auto;
 }
-   .testimonialsHeading {
-    font-size: 2rem;
+    .testimonialsHeading {
+    font-size: 6vw;
     font-family: 'Poppins';
     line-height: 1.5;
     color: #FFFF;
@@ -392,7 +400,7 @@
     margin: 10vw 0px 5vw 0;
 }
   .serviceHead {
-    font-size: 2rem;
+    font-size: 6vw;
     font-family: 'Poppins';
     line-height: 1.5;
     color: #000;
@@ -402,11 +410,20 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
-    font-size: 1.5rem;
+    font-size: 5vw;
     line-height: 32px;
     color: #182243;
     padding: 2vw;
 }
+  .footer_section .footer_align .footertext1 ul li {
+    float: left;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    display: inline-block;
+    margin: 0 7px 0 0;
+}
+
 }
 
 
@@ -425,7 +442,7 @@
   display: inline-block;
 }
    .testimonialsHeading {
-    font-size: 2rem;
+    font-size: 6vw;
     font-family: 'Poppins';
     line-height: 1.5;
     color: #FFFF;
@@ -433,7 +450,7 @@
     margin: 10vw 0px 5vw 0;
 }
   .serviceHead {
-    font-size: 2rem;
+    font-size: 6vw;
     font-family: 'Poppins';
     line-height: 1.5;
     color: #000;
@@ -443,9 +460,17 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
-    font-size: 1.5rem;
+    font-size: 5vw;
     line-height: 32px;
     color: #182243;
     padding: 2vw;
+}
+  .footer_section .footer_align .footertext1 ul li {
+    float: left;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    display: inline-block;
+    margin: 0 7px 0 0;
 }
 }
