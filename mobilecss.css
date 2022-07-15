@@ -25,7 +25,7 @@
 
   .banner_text {
    position: absolute;
-    top: 16vw;
+    top: 20vw;
     left: 7vw;
     width: 86%;
     font-family: 'Poppins';
@@ -130,15 +130,18 @@
   .carousel-inner {
     position: relative;
     overflow: hidden;
-    height: 157vw;
+    height: 165vw;
   }
 
   .card .carousel-caption {
     left: 0;
     top: 0;
     margin-bottom: 33px;
-    height: 73vw;
+    height: 81vw;
   }
+  .card .carousel-caption img {
+    width: 150px;
+}
 
   .gap-2 {
     gap: 0.5rem !important;
@@ -179,6 +182,26 @@
     width: fit-content;
     display: inline-block;
     margin: 0 3px 0 0;
+}
+  .services {
+    background-image: url(images/BG GREEN.png);
+    background-size: cover;
+    padding: 28px 0px;
+}
+  .service_product_image {
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin: 0vw 0px;
+    align-items: center;
+    justify-content: center;
+    padding: 12vw 1vw 0vw 1vw;
+}
+  .Prev_icon {
+    width: 10vw;
+}
+  .Next_icon {
+    width: 10vw;
 }
 }
 
