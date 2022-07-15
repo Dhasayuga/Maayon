@@ -244,12 +244,6 @@
   }
 
   .animate-reveal {
-    margin: 0 0 0.5em;
-    padding: 0;
-    font: bold 1.5em sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 6px;
-    opacity: 0;
     -webkit-animation: reveal 1s cubic-bezier(0, 1, 0.5, 1) 1 normal forwards;
     -moz-animation: reveal 1s ease-in 1 normal forwards;
     -o-animation: reveal 1s cubic-bezier(0, 1, 0.5, 1) 1 normal forwards;
@@ -359,12 +353,7 @@
   }
 
   .animate-reveal {
-    margin: 0 0 0.5em;
-    padding: 0;
-    font: bold 1.5em sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 6px;
-    opacity: 0;
+  
     -webkit-animation: reveal 1s cubic-bezier(0, 1, 0.5, 1) 1 normal forwards;
     -moz-animation: reveal 1s ease-in 1 normal forwards;
     -o-animation: reveal 1s cubic-bezier(0, 1, 0.5, 1) 1 normal forwards;
