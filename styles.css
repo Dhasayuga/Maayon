@@ -134,6 +134,14 @@ h1 {
   -moz-animation-delay: 0;
   -o-animation-delay: 0;
   animation-delay: 0;
+  font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3VW;
+    line-height: 4VW;
+    color: #FFFFFF;
+  letter-spacing: 2px;
+  text-transform: none;
 }
 
 .animate-second {
