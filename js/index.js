@@ -1,11 +1,9 @@
 $(document).ready(function () {
-    $(document).click(
-        function (event) {
-            var target = $(event.target);
-            var _mobileMenuOpen = $(".navbar-collapse").hasClass("show");
-            if (_mobileMenuOpen === true && !target.hasClass("navbar-toggler")) {
-                $("button.navbar-toggler").click();
-            }
+    $(document).click(function (event) {
+        var clickover = $(event.target);
+        var _opened = $(".navbar-collapse").hasClass("navbar-collapse in");
+        if (_opened === true && !clickover.hasClass("navbar-toggler") && clickover.parents('.navbar-collapse').length == 0) {
+            $("button.navbar-toggler").click();
         }
-    );
+    });
 });
