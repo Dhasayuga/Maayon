@@ -476,5 +476,20 @@
   color: #FFFFFF;
   display: inline-block;
 }
+  .animate-first {
+    -webkit-animation-delay: 0;
+    -moz-animation-delay: 0;
+    -o-animation-delay: 0;
+    animation-delay: 0;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 3rem;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+    text-transform: none;
+  }
+ 
   
 }
