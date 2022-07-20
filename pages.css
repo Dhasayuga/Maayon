@@ -65,7 +65,9 @@ Coimbatore;
   height: auto;
   margin-top: 10px;
 }
-
+.Reverse_content{
+  padding: 0px;
+}
 .imgReverse {
   max-width: 100%;
   display: block;
